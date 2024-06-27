@@ -1,5 +1,7 @@
 private/
 
+
+./contractAddress.json
 # Logs
 logs
 *.log

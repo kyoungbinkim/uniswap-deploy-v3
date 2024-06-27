@@ -1,3 +1,10 @@
+# step
+
+1. run ganache 
+2. deploy WETH (run deployERC20.js)
+3. fix WETH address at deploy.spec.ts
+
+
 # Deploy Uniswap V3 Script
 
 This package includes a CLI script for deploying the latest Uniswap V3 smart contracts to any EVM (Ethereum Virtual Machine) compatible network.
